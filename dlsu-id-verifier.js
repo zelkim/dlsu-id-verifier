@@ -20,3 +20,5 @@ const verifyDLSUId = (id) => {
   }
   catch { return 0; }
 }
+
+module.exports = verifyDLSUId;
